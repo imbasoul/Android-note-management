@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">电子笔记</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">相机</string>
+    <string name="title_notifications">设置</string>
+    <string name="title_activity_album">album</string>
+    <string name="title_activity_xiangce">Xiangce</string>
+    <string name="title_activity_gril_view">GrilViewActivity</string>
+</resources>
